@@ -9,4 +9,8 @@ class HelloWorld
     { 
         System.out.println("Hello, World"); 
     } 
+    public static void main(string args[])
+	{
+		system.out.println("I'm Chitti version 2.0");
+	}
 }
