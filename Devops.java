@@ -13,4 +13,9 @@ class HelloWorld
     {
         System.out.println("Welcom to Devops");
     }
+
+  public static void main(String args[]) 
+    { 
+        System.out.println("Hello, World"); 
+    } 
 } 
