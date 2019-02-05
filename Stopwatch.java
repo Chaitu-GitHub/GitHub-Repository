@@ -17,7 +17,7 @@ public class Stopwatch
 	}
 
 	/**
-	 stop the stop watch.
+	 To stop the stop watch.
 	*/
 	public void stop()
 	{	stopTime = System.nanoTime();	}
