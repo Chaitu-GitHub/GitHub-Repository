@@ -10,7 +10,7 @@ public class Stopwatch
     public static final double NANOS_PER_SEC = 1000000000.0;
 
 	/**
-	 start the stop watch.
+	 To start the stop watch.
 	*/
 	public void start(){
 		startTime = System.nanoTime();
