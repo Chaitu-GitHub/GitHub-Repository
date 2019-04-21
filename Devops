@@ -6,4 +6,7 @@ class HelloWorld
     { 
         System.out.println("Hello, World"); 
     } 
+     { 
+        System.out.println("Welcom to Devops world"); 
+    } 
 } 
